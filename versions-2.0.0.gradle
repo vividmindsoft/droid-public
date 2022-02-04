@@ -15,6 +15,7 @@ ext {
             fragment                : '1.4.1',
             lifecycle               : '2.4.0',
             okhttp                  : '5.0.0-alpha.3',
-            rxActivityResult        : '2.2.1'
+            rxActivityResult        : '2.2.1',
+            room                    : '2.3.0' 
     ]
 }
