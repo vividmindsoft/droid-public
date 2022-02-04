@@ -16,6 +16,6 @@ ext {
             lifecycle               : '2.4.0',
             okhttp                  : '5.0.0-alpha.3',
             rxActivityResult        : '2.2.1',
-            room                    : '2.3.0' 
+            room                    : '2.4.1' 
     ]
 }
