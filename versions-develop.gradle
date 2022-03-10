@@ -21,6 +21,7 @@ ext {
     ]
     testingLibVersions = [
             mockk                   : '1.12.3',
-            espresso                : '3.4.0'
+            espresso                : '3.4.0',
+            robolectric             : '4.7.3'
     ]
 }
