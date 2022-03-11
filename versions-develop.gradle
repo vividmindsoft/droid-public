@@ -1,10 +1,10 @@
 ext {
     toolVersions = [
             kotlin    : '1.6.10',
-            compileSdk: 31,
-            targetSdk : 31,
+            compileSdk: 32,
+            targetSdk : 32,
             minSdk    : 21,
-            buildTools: '30.0.3'
+            buildTools: '32.0.0'
     ]
     coreLibVersions = [   
             navigation              : '2.5.0-alpha03',
