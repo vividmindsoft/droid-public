@@ -7,7 +7,7 @@ ext {
             buildTools: '32.0.0'
     ]
     coreLibVersions = [   
-            navigation              : '2.5.0-rc1',
+            navigation              : '2.5.0-beta01',
             compose                 : '1.2.0-beta02',
             toothpick               : '3.1.0',
             toothpickSmoothie       : '3.1.0',
