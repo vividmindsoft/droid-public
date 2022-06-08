@@ -9,7 +9,7 @@ ext {
     coreLibVersions = [   
             navigation              : '2.5.0-beta01',
             navigationTest          : '2.5.0-rc1',
-            compose                 : '1.2.0-beta02',
+            compose                 : '1.2.0-beta03',
             toothpick               : '3.1.0',
             toothpickSmoothie       : '3.1.0',
             retrofit                : '2.9.0',
