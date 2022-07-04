@@ -1,6 +1,6 @@
 ext {
     toolVersions = [
-            kotlin    : '1.6.21',
+            kotlin    : '1.7.0',
             compileSdk: 32,
             targetSdk : 32,
             minSdk    : 21,
@@ -8,7 +8,7 @@ ext {
     ]
     coreLibVersions = [   
             navigation              : '2.5.0-rc02',
-            compose                 : '1.2.0-rc03',
+            compose                 : '1.2.0',
             toothpick               : '3.1.0',
             toothpickSmoothie       : '3.1.0',
             retrofit                : '2.9.0',
