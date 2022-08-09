@@ -1,6 +1,6 @@
 ext {
     toolVersions = [
-            kotlin    : '1.7.10',
+            kotlin    : '1.7.0',
             compileSdk: 32,
             targetSdk : 32,
             minSdk    : 21,
