@@ -17,7 +17,8 @@ ext {
             lifecycle               : '2.5.1',
             okhttp                  : '5.0.0-alpha.7',
             rxActivityResult        : '2.2.1',
-            room                    : '2.4.3' 
+            room                    : '2.4.3',
+            firestore               : '24.2.2'
     ]
     testingLibVersions = [
             mockk                   : '1.12.3',
