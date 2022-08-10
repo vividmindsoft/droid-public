@@ -15,7 +15,7 @@ ext {
             threeten                : '1.4.0',
             fragment                : '1.5.1',
             lifecycle               : '2.5.0',
-            okhttp                  : '5.0.0-alpha.3',
+            okhttp                  : '5.0.0-alpha.7',
             rxActivityResult        : '2.2.1',
             room                    : '2.4.2' 
     ]
