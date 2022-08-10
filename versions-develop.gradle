@@ -14,7 +14,7 @@ ext {
             retrofit                : '2.9.0',
             threeten                : '1.4.0',
             fragment                : '1.5.1',
-            lifecycle               : '2.5.0-beta01',
+            lifecycle               : '2.5.0',
             okhttp                  : '5.0.0-alpha.3',
             rxActivityResult        : '2.2.1',
             room                    : '2.4.2' 
