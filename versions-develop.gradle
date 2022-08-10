@@ -17,7 +17,7 @@ ext {
             lifecycle               : '2.5.0',
             okhttp                  : '5.0.0-alpha.7',
             rxActivityResult        : '2.2.1',
-            room                    : '2.4.2' 
+            room                    : '2.4.3' 
     ]
     testingLibVersions = [
             mockk                   : '1.12.3',
