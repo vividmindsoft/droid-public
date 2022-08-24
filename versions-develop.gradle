@@ -4,6 +4,7 @@ ext {
             compileSdk: 32,
             targetSdk : 32,
             minSdk    : 21,
+            naploMinSdk    : 24,
             buildTools: '32.0.0'
     ]
     coreLibVersions = [   
