@@ -8,16 +8,16 @@ ext {
     ]
     coreLibVersions = [   
             navigation              : '2.5.1',
-            compose                 : '1.2.0',
+            compose                 : '1.2.1',
             toothpick               : '3.1.0',
             toothpickSmoothie       : '3.1.0',
             retrofit                : '2.9.0',
             threeten                : '1.4.0',
-            fragment                : '1.5.1',
-            lifecycle               : '2.5.0-beta01',
-            okhttp                  : '5.0.0-alpha.3',
+            fragment                : '1.5.2',
+            lifecycle               : '2.5.1',
+            okhttp                  : '5.0.0-alpha.7',
             rxActivityResult        : '2.2.1',
-            room                    : '2.4.2' 
+            room                    : '2.4.3' 
     ]
     testingLibVersions = [
             mockk                   : '1.12.3',
