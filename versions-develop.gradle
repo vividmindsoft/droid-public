@@ -14,7 +14,7 @@ ext {
             toothpickSmoothie       : '3.1.0',
             retrofit                : '2.9.0',
             threeten                : '1.4.0',
-            fragment                : '1.5.2',
+            fragment                : '1.5.3',
             lifecycle               : '2.5.1',
             okhttp                  : '5.0.0-alpha.7',
             rxActivityResult        : '2.2.1',
