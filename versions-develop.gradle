@@ -1,8 +1,8 @@
 ext {
     toolVersions = [
             kotlin    : '1.7.0',
-            compileSdk: 32,
-            targetSdk : 32,
+            compileSdk: 33,
+            targetSdk : 33,
             minSdk    : 21,
             buildTools: '33.0.0'
     ]
@@ -23,6 +23,6 @@ ext {
     testingLibVersions = [
             mockk                   : '1.12.3',
             espresso                : '3.4.0',
-            robolectric             : '4.8.1'
+            robolectric             : '4.9.0'
     ]
 }
