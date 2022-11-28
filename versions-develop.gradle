@@ -19,7 +19,7 @@ ext {
             okhttp                  : '5.0.0-alpha.7',
             rxActivityResult        : '2.2.1',
             room                    : '2.4.3',
-            firestore               : '24.2.2'
+            firestore               : '24.4.1'
     ]
     testingLibVersions = [
             mockk                   : '1.13.2',
