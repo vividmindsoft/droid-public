@@ -1,6 +1,6 @@
 ext {
     toolVersions = [
-            kotlin    : '1.7.20',
+            kotlin    : '1.7.20', //don't use 1.7.21 because of composeCompiler
             compileSdk: 33,
             targetSdk : 33,
             minSdk    : 21,
